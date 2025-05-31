@@ -29,7 +29,7 @@ A modern and responsive **Food Delivery App UI** built with Flutter. This projec
 
 ## 🌍 Localization
 
-- 🇬🇧 English and 🇸🇦 Arabic languages supported.
+- 🇬🇧 English and 🇪🇬  Arabic languages supported.
 - RTL/LTR layout switching based on selected language.
 - Localized strings are managed using `easy_localization`.
 
