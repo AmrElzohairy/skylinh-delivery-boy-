@@ -1,4 +1,4 @@
-# 🍽️ Skylink Food Delivery App – UI 
+# 🍽️ Food king Delivery App – UI 
 
 A modern and responsive **Food Delivery App UI** built with Flutter. This project focuses on the **interface design only**, with support for both **Arabic 🇸🇦** and **English 🇬🇧** languages.
 
